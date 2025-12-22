@@ -33,8 +33,8 @@
 |----------|----------|----------|----------|------------|----------|
 | [智镜](https://chat.aimirror123.com) | GPT-4o, GPT-4.1, GPT-o1, GPT-o3, o4, Claude, Gemini, Grok, DeepSeek | ✅ | 手机/邮箱注册 | ⭐⭐⭐⭐⭐ | 支持 GPT-4o 及 MJ 绘图，适合编程、创作、日常多场景使用 |
 | [ai镜像站](https://www.chatgpt-mirrors.com/chatgpt) | GPT-4, GPT-4o, GPT-4.1, GPT-o1, o3, o4, AIPPT, Midjourney | ✅ | 手机/邮箱注册 | ⭐⭐⭐⭐⭐ | 原版 GPT-o1 体验，支持 AI 插件与多功能助手 |
-| [mygpt.bid](https://mygpt.bid/) | GPT-4, GPT-4o, o1, o3 | 注册赠送免费额度 | 邮箱注册 | ⭐⭐⭐⭐ | 界面简洁，响应迅速，适合多模型切换 |
-| [allyfy.chat](https://www.allyfy.chat/) | GPT-4, GPT-o1 | 每日5次免费 | 邮箱注册 | ⭐⭐⭐ | 轻量体验，含少量广告，适合初次尝试 |
+| [claude 镜像](https://claude-site.com/) | Claude4.5,GPT-4, GPT-4o, o1, o3 | 注册赠送免费额度 | 邮箱注册 | ⭐⭐⭐⭐ | 界面简洁，响应迅速，适合多模型切换 |
+| [gemini 镜像](https://gemini-tool.com/) | Gemini3.0,GPT-4, GPT-o1 | 每日5次免费 | 邮箱注册 | ⭐⭐⭐ | 轻量体验，含少量广告，适合初次尝试 |
 
 ---
 
